@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer Consumer Lock", "Producer Consumer Lock\Producer Consumer Lock.csproj", "{FE5E74D6-1D53-4A40-B394-DD6CCAAB9426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5E74D6-1D53-4A40-B394-DD6CCAAB9426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E74D6-1D53-4A40-B394-DD6CCAAB9426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E74D6-1D53-4A40-B394-DD6CCAAB9426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E74D6-1D53-4A40-B394-DD6CCAAB9426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54039D48-484B-455E-9E17-21C4C53C87AC}
+	EndGlobalSection
+EndGlobal
